@@ -1,4 +1,4 @@
-# 20 MERN: Book Search Engine
+# MERN: Google Book Search Engine
 [![License: MIT](https://img.shields.io/github/license/SSimonPhd/book-search?label=license&style=plastic)](https://opensource.org/licenses/MIT)
 
 ## Description
