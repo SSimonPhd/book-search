@@ -91,4 +91,3 @@ SOFTWARE.
 
 ## Contact
 For inquiries, please contact [Scott Simon](https://github.com/SSimonPhd).
-
