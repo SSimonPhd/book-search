@@ -62,7 +62,7 @@ This assignment includes:
 
 ## Deployed Application
 
-https://sleepy-ravine-56539.herokuapp.com/
+https://google-book-search-simon.herokuapp.com/
 
 ## GitHub Repo 
 
