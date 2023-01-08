@@ -69,7 +69,7 @@ https://sleepy-ravine-56539.herokuapp.com/
 https://github.com/SSimonPhd/book-search
 
 ## MIT License
-&copy; Scott Simon
+&copy; 2023 Scott Simon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
