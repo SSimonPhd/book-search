@@ -12,12 +12,13 @@ This assignment includes:
 4. Deploying the application to Heroku with a MongoDB database using MongoDB Atlas.
 
 ## Table of Contents
-- [Core Objectives Met](#Core)
-- [Technologies Utilized](#Technologies)
-- [Screenshot](#Screen) 
-- [Deployed Application](#Deployed)
-- [License](#MIT)
-- [Contact](#Contact)
+- [Core Objectives Met](#core-objectives-met)
+- [Technologies Utilized](#technologies-utilized)
+- [Screenshot](#screenshot) 
+- [Deployed Application](#deployed-application)
+- [GitHub Repo](#github-repo)
+- [License](#mit-license)
+- [Contact](#contact)
 
 ## Core Objectives Met
 
